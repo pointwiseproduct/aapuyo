@@ -1,0 +1,88 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+span {
+    font-style: italic;
+}
+
+.console {
+    font-family: "ＭＳ Ｐゴシック";
+    font-size: 12pt;
+    font-style: oblique;
+    border: 1px solid #D0D0D0;
+    width: 100%;
+    padding: 5pt;
+}
+
+.consoleResult {
+    color: #800000;
+}
+
+.dummy {
+    color: #808080;
+}
+
+.scr {
+    font-family: "ＭＳ Ｐゴシック";
+    font-size: 12pt;
+}
+
+.pmenu {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    visibility: hidden;
+    background-color: #FFFFFF;
+}
+
+.qmenu {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    visibility: hidden;
+    background-color: #FFFFFF;
+}
+
+.puyoA {
+    font-style: normal;
+    color: #800000;
+    background-color: #F0D0D0;
+}
+
+.puyoB {
+    font-style: normal;
+    color: #000080;
+    background-color: #D0D0F0;
+}
+
+.puyoC {
+    font-style: normal;
+    color: #008000;
+    background-color: #D0F0D0;
+}
+
+.puyoD {
+    font-style: normal;
+    color: #008080;
+    background-color: #D0F0F0;
+}
+
+.puyoZ {
+    font-style: normal;
+    color: #808080;
+    background-color: #F0F0F0;
+}
+
+.puyoDummy {
+    font-style: normal;
+    color: #808080;
+    background-color: #F0F0F0;
+}
+
+.puyoDummyAlpha {
+    font-style: normal;
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+
